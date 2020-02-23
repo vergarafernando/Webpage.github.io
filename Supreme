@@ -1,0 +1,256 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+<link href="https://fonts.googleapis.com/css?family=Special+Elite&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="supreme.css"" type="text/css">
+<meta name = "viewport" content = "width = device-width, initial-scale = 1">
+<link rel = "stylesheet" href = "https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css"> 
+<script src = "https://code.jquery.com/jquery-1.11.3.min.js"></script>
+  <meta charset="UTF-8">
+
+
+
+
+
+<link href="https://fonts.googleapis.com/css?family=Righteous&display=swap" rel="stylesheet">
+
+
+
+
+
+<title>
+Supreme
+</title>
+
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+ 
+<link href="https://fonts.googleapis.com/css?family=Special+Elite&display=swap" rel="stylesheet">
+<link rel="stylesheet"href="" type="text/css">
+<meta name="viewport"content="width= device-width,initial-scale=1">
+      <script type="text/javascript" src="date_time.js"></script>
+    </head>
+
+<style>
+
+* { box-sizing: border-box; } 
+html {     
+margin: 0;     
+padding: 0;     
+border: 0;  
+   font-family: 'Special Elite', cursive;
+  } 
+img{
+				width:100%;
+				height: 100%;
+				}
+				#date_time{
+								text-align: center;
+								padding-right:2em;
+								
+								}
+				
+								
+								
+						
+
+				
+body {    
+ font-family: 'Special Elite', cursive;
+background-image:url(fence.);
+background-color: ;
+background-blend-mode: ;
+background-size: ;
+background-repeat: no-repeat;
+background-position: fixed;
+max-width:1000px;
+max-height:100%;
+font-family: 'Special Elite', cursive;
+text-align: center;
+}
+
+img{
+				width: 100%;
+  height: 100%;}
+  opacity:.8;
+}
+
+clock {
+
+    position: absolute;
+
+    top: 50%;
+
+    left: 50%;
+
+    transform: translateX(-50%) translateY(-50%);
+
+    color: #ff4747;
+
+    font-size: 60px;
+
+    font-family: 'Special Elite', cursive;
+
+    letter-spacing: 7px;
+text-align: center;
+
+}
+
+
+
+.logo{
+				width:12em;
+				height: 3em;
+				
+				}
+.flex-container {
+				display: flex;
+				flex-wrap: wrap;
+				justify-content: start;
+				column-gap:1px;
+				
+
+				
+				}
+				.item{
+								width:6em;
+								height: 5em;
+								line-height: 75px;
+								margin:1 1 1 2;
+								padding:.2em;
+								list-style: none;
+								
+								column-gap:1px;
+								
+								}
+								.lust a{
+												color:white;
+											padding-left: 75%;
+												}
+								
+								footer{
+												background-image: url(fence.gif);
+												
+												background-size:100%;
+												background-repeat: no-repeat;
+												height: 10em;
+												over-flow: hidden;
+												opacity:.9;
+												padding-bottom: 2em;
+												}
+		.nav a{
+						font-size: 1em;
+						font-family: 'Special Elite', cursive;
+					text-decoration: none;
+					color: #666;
+					font-weight: 800;
+					padding-left:1em;
+						}
+						
+						.nav a:hover{
+										color: red;
+										
+										}
+
+</style>
+    <body>
+<header>
+
+            <span id="date_time"></span>
+
+            <script type="text/javascript">window.onload = date_time('date_time');</script>
+
+
+
+
+<div data-role = "page" id = "pageone">
+<div data-role = "header">
+<div class="logo">
+<img src="ss.jpg">
+
+								
+</div>
+</header>
+<div class="flex-container">
+
+<a href="jacket.html"><img class="item" src="supimgs/sup1.png"></a>
+<a href="jacket2.html"><img class="item" src="supimgs/sup2.png"></a>
+<a href="jacket3.html"><img class="item" src="supimgs/sup3.png"></a>
+<a href=""><img class="item" src="supimgs/sup4.png"></a>
+ 
+ 
+<a href="jacket.html"><img class="item" src="supimgs/sup5.png"></a>
+<a href="jacket2.html"><img class="item" src="supimgs/sup6.png"></a>
+
+<a href="jacket2.html"><img class="item" src="supimgs/sup7.png"></a>
+<a href="jacket3.html"><img class="item" src="supimgs/sup8.png"></a>
+<a href="jacket.html"><img class="item" src="supimgs/sup9.png"></a>
+<a href="jacket2.html"><img class="item" src="supimgs/sup10.png"></a>
+<a href="jacket.html"><img class="item" src="supimgs/sup11.png"></a>
+
+<a href="jacket3.html"><img class="item" src="supimgs/sup18.png"></a>
+<a href="jacket.html"><img class="item" src="supimgs/sup19.png"></a>
+<a href="jacket2.html"><img class="item" src="supimgs/sup20.png"></a>
+<a href="jacket3.html"><img class="item" src="supimgs/sup12.png"></a>
+<a href="jacket.html"><img class="item" src="supimgs/sup13.png"></a>
+<a href="jacket2.html"><img class="item" src="supimgs/sup14.png"></a>
+<a href="jacket.html"><img class="item" src="supimgs/sup15.png"></a>
+<a href=""><img class="item" src="supimgs/sup16.png"></a>
+
+<a href="jacket.html"><img class="item" src="supimgs/sup6.png"></a>
+<a href="jacket3.html"><img class="item" src="supimgs/sup18.png"></a>
+<a href="jacket2.html"><img class="item" src="supimgs/sup19.png"></a>
+<a href="jacket.html"><img class="item" src="supimgs/sup20.png"></a>
+</div>
+</div>
+<div class="lust">
+<a href="list.html">list view</a></div>
+<footer>
+<div data-role = "footer">
+<div class="nav">
+<a href="main.html">home</a>
+<a href="about.html">about</a>
+<a href="">contact</a>
+<a href="">mailing list</a>
+<br>
+
+</div>
+</div>
+
+
+</footer>
+<script>
+
+function date_time(id)
+{
+        date = new Date;
+        year = date.getFullYear();
+        month = date.getMonth();
+        months = new Array('January', 'February', 'March', 'April', 'May', 'June', 'Jully', 'August', 'September', 'October', 'November', 'December');
+        d = date.getDate();
+        day = date.getDay();
+        days = new Array('Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday');
+        h = date.getHours();
+        if(h<10)
+        {
+                h = "0"+h;
+        }
+        m = date.getMinutes();
+        if(m<10)
+        {
+                m = "0"+m;
+        }
+        s = date.getSeconds();
+        if(s<10)
+        {
+                s = "0"+s;
+        }
+        result = ''+days[day]+' '+months[month]+' '+d+' '+year+' '+h+':'+m+':'+s;
+        document.getElementById(id).innerHTML = result;
+        setTimeout('date_time("'+id+'");','1000');
+        return true;
+}
+
+</script>
+</body>
+</html>
